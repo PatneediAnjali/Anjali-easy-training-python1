@@ -1,0 +1,16 @@
+PYTHON:
+          python is famous in the market and it is called  as language of future.It supports current technologies and upcoming technologies.
+DATATYPES:
+          Numerical: int,float,complex.
+          Boolean:True,False
+          Sequence:string,list,tuple,dictionary
+          set
+Operator prescendence and Associativity law:
+          Every operator has its own priority.we can use BODMAS.if there is same priority operators present in the expression
+evaluation happens left to right.Except one operator i.e assignment operator which evaluates from right to left.
+
+OPERATORS:
+ Arithemetic Operators:  +,-,*,/,//
+ Relational Operators or Comparision Operators : first compares 1or2or3or4 variables
+    !=,==,<=,>=,<,>
+  Logical Operators:  and, or , not

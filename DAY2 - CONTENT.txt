@@ -1,0 +1,45 @@
+BITWISE OPERATORS:
+     0's and 1's:
+          some operation if you do like ths it will be faster like - compressing data.
+          sending data in network to network.
+          0-1 ON OFF or true false
+  Different operators in this are: bitwise AND,bitwise OR,bitwise NOT(negation or 1's compliment),
+        bitwise XOR,left shift,right shift
+
+Condition/Contrrol statements :
+  1.simple if :
+         if (<condition-1>):
+               statement-1
+               statement-2
+               statement-p
+ Whenever we have a condition to be tested and we need to execute statement(s) 
+based on a condition then we can use a simple if statement.
+  2.if else :
+        if(<condition-1>):
+              statement-1
+              statement-2
+      else:
+           statement-3
+           statement-4
+ Whenever we have a situation where we want to test a condition and if the condition is true 
+we want to execute some statement(s) and when the condition is not true we want to execute another set of statements, we must use the if-else statement.
+  3.else if :
+       if the previous conditions were not true, then try this condition.
+  4.else if ladder :
+       It is a conditional statement used for selection between multiple set of statements based on multiple test conditions. 
+      The various test conditions are provided inside each if statement.
+       if (condition):
+            statement
+      elif (condition):
+           statement
+      .
+      .
+     else:
+          statement
+  5.nested if :
+        A nested if is an if statement that is the target of another if statement. 
+        Nested if statements mean an if statement inside another if statement. 
+        if(<condition-1>):
+            if(<condition-2>):
+                statement-1
+                statement-2
