@@ -1,0 +1,16 @@
+FUCTION
+  classification:
+   predefined
+   user defined
+for code reusability we use functions lets say we want to use a particular concept multipke times in our program
+instead of writing the same code multiple times we can write it once include that inside  a function and can
+call the function wherever we need it.
+
+TYPES:
+ 1.functions without argument without return value
+ 2.functions without argument with return value
+ 3.Functions with argument with return value
+4. Fuctionswith argument without return value
+
+RECURSIVE FUNCTION OR RECURSION
+      A function which calls itself is called recursive function
