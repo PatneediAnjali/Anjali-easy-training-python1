@@ -1,0 +1,23 @@
+DATA STRUCTURE
+ helps to write efficient programs
+Linear - Array/linkedlist/stack/queue/matrix
+ 1. static - array
+2.dynamic - list,stack,queue
+NonLinear - Binary tree/heap/hash table/graph
+Linear - storing data sequentially
+NonLinear - No sequential style required
+Linked List :
+ ex: train
+As the name says list of items which are linked with one another is called as Linked List
+Types: singly/doubly/circular
+
+Creating a LinkedList
+step 1 create the node
+step 2 partition the node with two segments data and none
+step 3 Add value into the blank node
+step 4 mark the node as head
+step 5 Create the next node by following the above steps
+step 6 Establish link between first node and the second node
+
+Displaying a LinkedList
+Traversal is required from first node till tail node inorder to display existing linkedlist
