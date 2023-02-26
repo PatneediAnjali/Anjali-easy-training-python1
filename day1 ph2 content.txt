@@ -1,0 +1,9 @@
+Polymorphism
+one item or same item used for different purpose
+types:
+1. overloading
+   a. operator overloading
+   b. method overloading
+2. overriding
+
+if a method is difective or cannot be used inside derived class it will take it from base class or parent class
